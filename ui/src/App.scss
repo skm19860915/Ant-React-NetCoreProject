@@ -1,0 +1,42 @@
+@import '~antd/dist/antd.css';
+
+.header-icon {
+    color: white;
+    font-size: 22px;
+    padding: 4px;
+    vertical-align: middle;
+    transition: all .25s;
+}
+
+.menu-right {
+    float: right;
+    height: 100%;
+    overflow: hidden;
+}
+
+.menu-right-item {
+    display: inline-block;
+    height: 100%;
+    padding: 0 12px;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.logo {
+    height: 64px;
+    float: left;
+    vertical-align: middle;
+}
+
+.profile-link {
+    color: white;
+    vertical-align: center;
+}
+
+.ant-modal {
+    top: 25px;
+}
+
+.ant-tabs-top > .ant-tabs-nav::before, .ant-tabs-bottom > .ant-tabs-nav::before, .ant-tabs-top > div > .ant-tabs-nav::before, .ant-tabs-bottom > div > .ant-tabs-nav::before {
+    border-bottom: 1px solid #ccc;
+}

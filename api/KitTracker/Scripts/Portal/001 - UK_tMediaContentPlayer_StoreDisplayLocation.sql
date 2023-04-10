@@ -1,0 +1,3 @@
+ALTER TABLE tMediaContentPlayer
+ADD CONSTRAINT UK_tMediaContentPlayer_StoreDisplayLocation UNIQUE (MediaContentStoreId, DisplayLocationIndex);
+GO

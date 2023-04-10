@@ -1,0 +1,37 @@
+2021-08-02 09:37:11.4995 Info Message Template Auto Format enabled
+2021-08-02 09:37:11.5352 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-02 09:37:11.6653 Info Adding target FileTarget(Name=alldata)
+2021-08-02 09:37:11.6832 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-02 09:37:11.7765 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\bward\Downloads\cmder\repos\pga-kit-tracker\api\KitTracker\bin\Debug\net5.0\nlog.config
+2021-08-02 09:40:02.9271 Info Message Template Auto Format enabled
+2021-08-02 09:40:02.9583 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-02 09:40:03.0761 Info Adding target FileTarget(Name=alldata)
+2021-08-02 09:40:03.0929 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-02 09:40:03.1764 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\bward\Downloads\cmder\repos\pga-kit-tracker\api\KitTracker\bin\Debug\net5.0\nlog.config
+2021-08-02 09:46:14.7937 Info Message Template Auto Format enabled
+2021-08-02 09:46:14.9358 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-02 09:46:15.1136 Info Adding target FileTarget(Name=alldata)
+2021-08-02 09:46:15.1639 Info Adding target FileTarget(Name=otherFile-web)
+2021-08-02 09:46:15.2929 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=C:\Users\bward\Downloads\cmder\repos\pga-kit-tracker\api\KitTracker\bin\Debug\net5.0\nlog.config
+2021-08-02 09:48:18.0852 Info Message Template Auto Format enabled
+2021-08-02 09:48:18.1401 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-02 09:48:18.2092 Info Adding target ConsoleTarget(Name=console)
+2021-08-02 09:48:18.2616 Info Adding target FileTarget(Name=ErrorLog)
+2021-08-02 09:48:18.2616 Info Adding target FileTarget(Name=AccessLog)
+2021-08-02 09:48:18.2849 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2021-08-02 09:48:18.2849 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2021-08-02 09:48:18.3873 Info Validating config: TargetNames=console, ErrorLog, AccessLog, ConfigItems=26, FilePath=C:\Users\bward\Downloads\cmder\repos\pga-kit-tracker\api\KitTracker\bin\Debug\net5.0\nlog.config
+2021-08-02 09:48:18.4160 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2021-08-02 09:48:18.4160 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ErrorLog
+2021-08-02 09:48:18.4160 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: AccessLog
+2021-08-02 09:50:58.4585 Info Message Template Auto Format enabled
+2021-08-02 09:50:58.4718 Info Loading assembly: NLog.Web.AspNetCore
+2021-08-02 09:50:58.5553 Info Adding target ConsoleTarget(Name=console)
+2021-08-02 09:50:58.6251 Info Adding target FileTarget(Name=ErrorLog)
+2021-08-02 09:50:58.6399 Info Adding target FileTarget(Name=AccessLog)
+2021-08-02 09:50:58.6699 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'alldata' not found for logging rule: *.
+2021-08-02 09:50:58.6862 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'otherFile-web' not found for logging rule: *.
+2021-08-02 09:50:58.7805 Info Validating config: TargetNames=console, ErrorLog, AccessLog, ConfigItems=26, FilePath=C:\Users\bward\Downloads\cmder\repos\pga-kit-tracker\api\KitTracker\bin\Debug\net5.0\nlog.config
+2021-08-02 09:50:58.8053 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: console
+2021-08-02 09:50:58.8053 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ErrorLog
+2021-08-02 09:50:58.8053 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: AccessLog
